@@ -9,4 +9,4 @@ Take a look at this...
 3. JS 
 
 ## Hosted Link 
-https://adityalahanepersonalportfolio.000webhostapp.com/
+
